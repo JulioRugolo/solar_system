@@ -1,0 +1,12 @@
+header {
+  align-items: center;
+  background-color: black;
+  box-shadow: rgba(255, 255, 255, 0.389) 2px 2px 10px;
+  color: white;
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  margin-bottom: 10px;
+  position: absolute;
+  width: 100%;
+}
